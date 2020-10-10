@@ -9,6 +9,6 @@ Steps to Follow -
 
 1)    Install these 2 packages in your python interpeter then You are good to go- 
 
-(i)   pyttsx3       (used to speak to content)
+(i)   pyttsx3       (used for Text-to-Speech)
 
 (ii)  PyPDF2        (used to read the file)
