@@ -7,7 +7,7 @@ We will use Python programming language for our Audio Book.
 
 Steps to Follow - 
 
-1)    Install this packages then You are good to go- 
+1)    Install these 2 packages in your python interpeter then You are good to go- 
 
 (i)   pyttsx3       (used to speak to content)
 
