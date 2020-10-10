@@ -9,5 +9,5 @@ Steps to Follow -
 
 1)    Install this packages then You are good to go- 
 
-(i)   pyttsx3       (used to speak to content)
+(i)   pyttsx3       (used to speak to content)\n
 (ii)  PyPDF2        (used to read the file)
